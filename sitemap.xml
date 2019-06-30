@@ -8,13 +8,12 @@
   </url>
   
   <url>
-    <loc>https://hotch.money/categories/</loc>
-    <priority>0</priority>
+    <loc>https://hotch.money/posts/</loc>
+    <lastmod>2019-06-29T19:09:26-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hotch.money/posts/</loc>
-    <lastmod>2019-06-29T19:09:26-04:00</lastmod>
+    <loc>https://hotch.money/categories/</loc>
     <priority>0</priority>
   </url>
   
